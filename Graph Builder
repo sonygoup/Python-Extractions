@@ -1,0 +1,7 @@
+import pandas as pd 
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+#remember this damn line^^^without it graphs dont show at all, you'll have to export it
+import seaborn as sns 
+import openpyxl as xl 
